@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .h-screen {
+        height: 100vh;
+
+        /* Avoid Chrome to see Safari hack */
+        @supports (-webkit-touch-callout: none) {
+            /* The hack for Safari */
+            height: -webkit-fill-available;
+        }
+    }
+
+    button {
+        @apply disabled:opacity-50 disabled:cursor-not-allowed;
+    }
+}
+
+@layer components {
+}

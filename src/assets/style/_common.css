@@ -1,0 +1,25 @@
+#app {
+    height: 100%;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+    @apply text-white bg-dark;
+}
+
+svg {
+    fill: currentColor;
+}
+
+pre {
+    @apply text-xs
+}
+
+img {
+    @apply text-xs
+}
