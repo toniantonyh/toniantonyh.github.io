@@ -14,11 +14,11 @@
       <router-link
         to="/">
         <div class="font-medium text-2xl leading-5 drop-shadow-xl">
-          WEPURPOSE
+          Tomislav Hrabrić
         </div>
 
         <span class="text-xs drop-shadow-xl">
-          WE INSPIRE TO GIVE
+          Inspiring and empowering
         </span>
       </router-link>
 
