@@ -21,10 +21,10 @@
       </router-link>
 
       <router-link
-        to="/whitepaper"
+        to="/about"
         class="underline text-2xl"
         @click="sidebarIsOpen = false">
-        WHITEPAPER
+        ABOUT
       </router-link>
 
       <a

@@ -50,9 +50,9 @@
       </p>
       
       <router-link
-        to="/whitepaper"
+        to="/about"
         class="lg:text-right underline text-brand-red text-2xl lg:text-5xl mt-4 lg:mt-8">
-        READ WHITEPAPER
+        READ ABOUT ME
       </router-link>
     </div>
   </div>

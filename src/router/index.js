@@ -1,6 +1,6 @@
+import AboutView from '@/views/AboutView.vue'
 import HomeView from '@/views/HomeView.vue'
 import TestView from '@/views/TestView.vue'
-import WhitepaperView from '@/views/WhitepaperView.vue'
 
 export const router = [
   {
@@ -14,8 +14,8 @@ export const router = [
     component: HomeView
   },
   {
-    path: '/whitepaper',
-    name: 'whitepaper',
-    component: WhitepaperView
+    path: '/about',
+    name: 'about',
+    component: AboutView
   }
 ]
