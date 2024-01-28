@@ -36,7 +36,7 @@
 
       <a
         class="underline text-2xl"
-        href="mailto:tomislavhrabric1970@gmail.com">
+        href="mailto:toniantonyh@gmail.com">
         CONTACT
       </a>
     </div>

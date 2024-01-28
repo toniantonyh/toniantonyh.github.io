@@ -26,7 +26,7 @@
       class="transition-transform duration-500 order-first lg:order-none flex lg:flex-col gap-x-8 gap-y-4 lg:gap-y-6 justify-center items-start px-8 lg:px-10 xl:px-12 2xl:px-14 pb-10 lg:py-0">
       <a
         class="underline text-brand-red text-2xl lg:text-5xl mt-4 lg:mt-8"
-        href="mailto:tomislavhrabric1970@gmail.com">
+        href="mailto:toniantonyh@gmail.com">
         CONTACT
       </a>
 
