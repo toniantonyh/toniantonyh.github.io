@@ -17,7 +17,7 @@
 
     <iframe
       class="h-full w-full"
-      src="https://docs.google.com/forms/d/e/1FAIpQLScTa4HOd0o7x53S-bEVUiYDObASadXemOHEMcBxEHblWsphQA/viewform"
-      title="Subscribe"/>
+      src="https://docs.google.com/forms/d/e/1FAIpQLSd-Xto-Rfnc1-yvbxJIuMPj0wODrqBQmao2vfV69aY7f_AGmA/viewform"
+      title="Purchase"/>
   </div>
 </template>
