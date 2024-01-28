@@ -36,7 +36,7 @@
 
         <p class="font-light leading-normal text-2xl">
           Tomislav explores the unique aesthetic and <br class="hidden xl:block">
-          qemotional ualities of virtual waves, using <br class="hidden xl:block">
+          emotional qualities of virtual waves, using <br class="hidden xl:block">
           them as a subject matter and as a medium.
         </p>
       </div>
