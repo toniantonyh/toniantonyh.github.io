@@ -45,7 +45,7 @@
         <span class="font-medium">In rhythmic steps,</span> <br>
         Moonlit waltz <br class="hidden xl:block">
         under starry sky, <br class="hidden xl:block">
-        Silent whispers dance.
+        silent whispers dance.
       </h2>
     </div>
   </div>

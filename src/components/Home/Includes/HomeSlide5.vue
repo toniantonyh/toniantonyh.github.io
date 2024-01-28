@@ -40,13 +40,13 @@
       :class="[isActive || isAnimated ? 'translate-x-0' : 'translate-x-full']"
       class="transition-transform duration-500 order-first lg:order-none flex flex-col gap-y-4 lg:gap-y-6 justify-center px-8 lg:px-10 xl:px-12 2xl:px-14 py-12 lg:py-0">
       <h2 class="font-medium lg:text-right leading-normal text-3xl lg:text-4xl lg:leading-relaxed xl:text-5xl xl:leading-relaxed 2xl:text-6xl 2xl:leading-normal">
-        BLENDING REALITY
+        BLENDING THE REALITY
       </h2>
 
       <div class="space-y-4">
         <p class="lg:text-right font-light leading-normal text-2xl">
-          Creating thought-provoking with a blend of <br class="hidden xl:block">
-          mediums, challenging perception of the reality.
+          Creating and provoking thoughts and ideas with a blend <br class="hidden xl:block">
+          of mediums, challenging perception of the reality.
         </p>
 
         <p class="lg:text-right font-light leading-normal text-2xl">
