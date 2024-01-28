@@ -1,6 +1,4 @@
 <script setup>
-  import WhitepaperTimeline from '@/components/Whitepaper/WhitepaperTimeline.vue'
-
   if (typeof document !== 'undefined') {
     document.title = 'About Hrabrić'
   }
@@ -28,20 +26,6 @@
 	  decades. Born in Belgrade in August 1970, he is an autodidact who
 	  began painting at a young age. His work is characterized by a deep
 	  understanding of the emotional and symbolic aspects of virtual waves.
-        </p>
-      </div>
-
-      <div>
-        <h2 class="font-medium text-3xl mb-3">
-          Figurative abstraction invokes the imagination
-        </h2>
-
-        <p>
-	  Virtual waves, also known as computer-generated waves, are a visual
-	  representation of the movement of water that is created using computer
-	  software. In his art, Tomislav explores the unique aesthetic and emotional
-	  qualities of virtual waves, using them as a subject matter and as a medium
-	  to express his thoughts, feelings and emotions.
         </p>
       </div>
 

@@ -41,13 +41,12 @@
       class="transition-transform duration-500 order-first lg:order-none flex flex-col gap-y-4 lg:gap-y-6 justify-center px-8 lg:pr-10 xl:pr-12 2xl:pr-14 py-12 lg:py-0">
       <h2
         class="lg:text-right font-medium leading-normal text-3xl lg:text-4xl lg:leading-relaxed xl:text-5xl xl:leading-relaxed 2xl:text-6xl 2xl:leading-normal">
-        NON-PROFIT
+        SILHOUETTES
       </h2>
 
       <p class="lg:text-right font-light leading-normal text-2xl">
-        We do not plan to make any profit on the platform or <br class="hidden xl:block">
-        token — it is solely aimed at creating a better future for <br class="hidden xl:block">
-        humanity.
+        Silhouettes cast mysterious shadows, sketching stories <br class="hidden xl:block">
+        in bold, dark outlines against the light.
       </p>
     </div>
   </div>

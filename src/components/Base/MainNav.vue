@@ -18,7 +18,7 @@
         </div>
 
         <span class="text-xs drop-shadow-xl">
-          Inspiring and empowering
+          Figurative abstraction
         </span>
       </router-link>
 

@@ -25,11 +25,9 @@
       class=" transition-transform duration-500 flex flex-col justify-center px-8 lg:pl-10 xl:pl-12 2xl:pl-14 py-12 lg:py-0">
       <h2
         class="font-light leading-normal text-3xl lg:text-4xl lg:leading-relaxed xl:text-5xl xl:leading-relaxed 2xl:text-6xl 2xl:leading-normal">
-        <span class="font-medium">WEPURPOSE</span> is a <br>
-        movement to change the <br class="hidden lg:block">
-        overconsumption culture for <br class="hidden lg:block">
-        admiring those who help <br class="hidden lg:block">
-        others!
+        <span class="font-medium">Tomislav Hrabrić</span> <br>
+        exploring emotional <br class="hidden lg:block">
+        symbolism of virtual waves
       </h2>
     </div>
 

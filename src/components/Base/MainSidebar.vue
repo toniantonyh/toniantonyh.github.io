@@ -27,18 +27,18 @@
         ABOUT
       </router-link>
 
-      <a
-        class="underline text-2xl"
-        href="mailto:together@wepurpose.net">
-        SUPPORT
-      </a>
-
       <button
         type="button"
         class="underline text-2xl"
         @click="sidebarIsOpen = false; openSubscriptionModal()">
-        SUBSCRIBE
+        PURCHASE
       </button>
+
+      <a
+        class="underline text-2xl"
+        href="mailto:tomislavhrabric1970@gmail.com">
+        CONTACT
+      </a>
     </div>
   </aside>
 </template>

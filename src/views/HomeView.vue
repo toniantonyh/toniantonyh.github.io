@@ -3,7 +3,7 @@
   import HomeDesktop from '@/components/Home/HomeDesktop.vue'
 
   if (typeof document !== 'undefined') {
-    document.title = 'WePurpose – Home'
+    document.title = 'Tomislav Hrabrić'
   }
 </script>
 
