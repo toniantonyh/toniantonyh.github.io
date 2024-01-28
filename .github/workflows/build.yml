@@ -52,13 +52,6 @@ jobs:
       - name: Build
         run: pnpm run generate
 
-          #- name: Setup Pages
-          #  uses: actions/configure-pages@v4
-     # - name: Build with Jekyll
-     #   uses: actions/jekyll-build-pages@v1
-     #   with:
-     #     source: ./dest
-     #     destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
