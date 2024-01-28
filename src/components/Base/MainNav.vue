@@ -13,8 +13,8 @@
     <div class="mx-auto px-8 lg:px-10 xl:px-12 2xl:px-14 flex justify-between items-center py-8">
       <router-link
         to="/">
-        <div class="font-medium text-2xl leading-5 drop-shadow-xl">
-          Tomislav Hrabrić
+        <div class="font-medium text-3xl leading-5 drop-shadow-xl">
+          Hrabrić
         </div>
 
         <span class="text-xs drop-shadow-xl">
