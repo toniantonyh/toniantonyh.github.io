@@ -27,6 +27,13 @@
         ABOUT
       </router-link>
 
+      <a
+        class="underline text-2xl"
+        href="https://www.instagram.com/tony_antony_h_art/"
+	target="_blank">
+        INSTAGRAM
+      </a>
+
       <button
         type="button"
         class="underline text-2xl"

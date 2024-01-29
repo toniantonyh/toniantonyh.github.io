@@ -31,12 +31,6 @@
         INSTAGRAM
       </a>
 
-      <a
-        class="underline text-brand-red text-2xl lg:text-5xl mt-4 lg:mt-8"
-        href="mailto:toniantonyh@gmail.com">
-        CONTACT
-      </a>
-
       <button
         type="button"
         class="underline text-brand-red text-2xl lg:text-5xl mt-4 lg:mt-8"
